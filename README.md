@@ -39,10 +39,12 @@ to graduate with a job offer.
     src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png?20180323153902"/>
 <br />
 
+#
+
 ---
 
 ### 📈 Stats
 
-![cesar-gz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-gz&theme=apprentice&show_icons=true)
+![Cesar-gz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-gz&theme=apprentice&show_icons=true)
 
 #
