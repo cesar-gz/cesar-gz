@@ -41,10 +41,12 @@ to graduate with a job offer.
 
 #
 
----
-
 ### 📈 Stats
 
-![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=apprentice&show_icons=true)
+![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=prussian&show_icons=true)
 
 #
+
+<details>
+    <summary><h3>👾 Cesar's Coding Journey</h3></summary>
+        I started taking an interest in coding when I took a intro to C++ class in Fullerton community college. From failing that class and then retaking it and passing it again, I learned that I liked coding. From there I finished up my general eds and transfered to California State Fullerton. Here I have taken different computer science classes. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. My hope is to be able to graduate become a software engineer where I can provide value to a company.
