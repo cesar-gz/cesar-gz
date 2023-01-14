@@ -1,16 +1,16 @@
-### Hi there 👋
+# ⚔️ Cesar Gutierrez
 
-<!--
-**cesar-gz/cesar-gz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Senior Computer Science Student at Cal State Fullerton (aspiring Software Engineer)`**
 
-Here are some ideas to get you started:
+I am 27 years old, expecting to graduate in Decemeber of 2023, and I love coding. I am
+learning how to build different apps with different languages and frameworks. I would like
+to graduate with a job offer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p aligh="left">
+    <a href="https://cesar-gz.github.io/project-portfolio/">
+        <img alt="project portfolio" title="My Project Portfolio" 
+        src="https://custom-icon-badges.demolab.com/badge/cesar--gz-Project%20Portfolio-blue"
+        /></a>
+</p>
+
+---
