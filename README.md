@@ -45,6 +45,6 @@ to graduate with a job offer.
 
 ### 📈 Stats
 
-![Cesar-gz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-gz&theme=apprentice&show_icons=true)
+![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=apprentice&show_icons=true)
 
 #
