@@ -9,7 +9,7 @@ Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard
         <img alt="project portfolio" title="My Project Portfolio" 
         src="https://custom-icon-badges.demolab.com/badge/cesar--gz-Project%20Portfolio-blue"
         /></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/cesar-gz"><img src="https://camo.githubusercontent.com/f856d4da00ed44359fe089906a13d6a0ebeb0b036ab656c2a3bbc83700f490ea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e686475793132303226636f6c6f723d626c7565" data-canonical-src="[https://komarev.com/ghpvc/?username=cesar-gz&style=flat-square&color=blueviolet]" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/cesar-gz"><img src="https://camo.githubusercontent.com/89470139" data-canonical-src="[https://komarev.com/ghpvc/?username=cesar-gz&style=flat-square&color=blueviolet]" style="max-width: 100%;"></a>
     <a href="https://www.linkedin.com/in/cesar-gutierrez-c/" rel="nofollow"> <img src="https://camo.githubusercontent.com/46a64b46e5db134c875d304cfaaa8b1bf26d0ea55c187aaec6e6ab079103c451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d706c6173746963266c6f676f3d6c696e6b6564496e" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&amp;logo=linkedIn" style="max-width: 100%;"> </a>
 </p>
 
