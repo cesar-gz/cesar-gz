@@ -9,7 +9,7 @@ Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard
         <img alt="project portfolio" title="My Project Portfolio" 
         src="https://custom-icon-badges.demolab.com/badge/cesar--gz-Project%20Portfolio-blue"
         /></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/cesar-gz"><img src="https://camo.githubusercontent.com/89470139" data-canonical-src="[https://komarev.com/ghpvc/?username=cesar-gz&style=flat-square&color=blueviolet]" style="max-width: 100%;"></a>
+    [![GitHub Views](https://komarev.com/ghpvc/?username=cesar-gz&style=flat-square&color=blueviolet)]
     <a href="https://www.linkedin.com/in/cesar-gutierrez-c/" rel="nofollow"> <img src="https://camo.githubusercontent.com/46a64b46e5db134c875d304cfaaa8b1bf26d0ea55c187aaec6e6ab079103c451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d706c6173746963266c6f676f3d6c696e6b6564496e" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&amp;logo=linkedIn" style="max-width: 100%;"> </a>
 </p>
 
@@ -50,6 +50,3 @@ Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard
 <details>
     <summary><h3>👾 Cesar's Coding Journey</h3></summary>
         I am a highly motivated senior at California State University Fullerton with a passion for Computer Science. With three years of studying, I have developed a deep understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. Throughout my studies, I have been fortunate to work with some amazing people, and have been a part of some fun projects. I am a team player at heart and thrive in collaborative environments where everyone's contributions are valued. I am dedicated to providing high-quality work and going above and beyond to ensure the satisfaction of my clients and colleagues. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. My hope is to be able to graduate become a software engineer where I can provide value to a company. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges, and am excited to connect with like-minded professionals in the industry. Feel free to reach out to me for any inquiries.
-
-    
-![](https://hit.yhype.me/github/profile?user_id=89470139)
