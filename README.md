@@ -1,6 +1,6 @@
-# ⚔️ Cesar Gutierrez
+# 👾🏐 Cesar Gutierrez
 
-**`Senior Computer Science Student at California State Fullerton (aspiring Software Engineer)`**
+**`Web Design Intern @ Titan Radio / Amazon Research Fellow / CSUF Student`**
 
 Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard working student with a keen interest in creating efficient and effective solutions to real-world problems. I am striving to become a software engineer intern and eventually a software engineer.
 
@@ -14,7 +14,7 @@ Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
@@ -47,5 +47,5 @@ Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard
 #
 
 <details>
-    <summary><h3>👾 Cesar's Coding Journey</h3></summary>
+    <summary><h3>👾 About Me</h3></summary>
         I am a highly motivated senior at California State University Fullerton with a passion for Computer Science. With three years of studying, I have developed a deep understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. Throughout my studies, I have been fortunate to work with some amazing people, and have been a part of some fun projects. I am a team player at heart and thrive in collaborative environments where everyone's contributions are valued. I am dedicated to providing high-quality work and going above and beyond to ensure the satisfaction of my clients and colleagues. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. My hope is to be able to graduate become a software engineer where I can provide value to a company. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges, and am excited to connect with like-minded professionals in the industry. Feel free to reach out to me for any inquiries.
