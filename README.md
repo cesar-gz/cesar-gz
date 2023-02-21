@@ -1,4 +1,4 @@
-# 👾🏐 Cesar Gutierrez
+# <h1 align="center" dir="auto">👾🏐 Cesar Gutierrez </h1>
 
 **`Web Design Intern @ Titan Radio / Amazon Research Fellow / CSUF Student`**
 
