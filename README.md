@@ -17,7 +17,7 @@
     </a>
     <a><img src="https://vbr.wocr.tk/badge?page_id=cesar-gz&amp;style=for-the-badge&amp;logo=Github&amp;color=blueviolet" style="max-width: 100%;"></a>
 
-![This is a alt text.](https://lh3.googleusercontent.com/VYFNTy2mR-M8_QoL5Gye6QZCahMpPcx_Y1khlT2mblrDNHecl9wqLNT5UnCHLTgmHzpxXU4R8bfSRX59jzAlHCSj6fzr371CmOpRedWvIhGR "Why hello there.")
+![This is a alt text.](https://lh3.googleusercontent.com/VYFNTy2mR-M8_QoL5Gye6QZCahMpPcx_Y1khlT2mblrDNHecl9wqLNT5UnCHLTgmHzpxXU4R8bfSRX59jzAlHCSj6fzr371CmOpRedWvIhGR](https://lh3.googleusercontent.com/agl8Z-l2qblO18uVebpgC8oZc_NFB2HIL_UjcGIRbhTzlCHFeXY6qAC92kUN4fv1WTIF25o8L2vwgyfwpDuSmzBF5SXdhD5XeUyJQhF75g "Why hello there.")
     
 ---
 
@@ -46,12 +46,11 @@
 
 ### <h3 align="center"> 📈 Stats </h3>
 
-![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=algolia&show_icons=true&include_all_commits=true&hide=stars)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-gz&theme=algolia&layout=compact)
+<a><img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-gz&theme=algolia&layout=compact"></a>
+<a><img width="485" height="225" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=algolia&show_icons=true&include_all_commits=true&hide=stars" border-radius="40px" max-width="100%"> </a>
 
 #
 
 <details>
     <summary><h3 align="center">👾 About Me 👾</h3></summary>
-        With three years of studying, I have developed a great understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges.
+        With three years of studying, I have developed a great understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges.
