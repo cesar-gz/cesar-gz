@@ -13,7 +13,6 @@
     </a>
     <a href="" rel="nofollow"> <img src="https://img.shields.io/badge/cesarG(2282)-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a>
     <a href="https://titanradio.org/testingpage/" rel="nofollow"> <img src="https://img.shields.io/badge/Music-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
-    <a href="" rel="nofollow"> <img src="https://img.shields.io/badge/cesar__gz-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href="" rel="nofollow"> <img src="https://komarev.com/ghpvc/?username=cesar-gz&style=for-the-badge"> </a>
 
 ---
