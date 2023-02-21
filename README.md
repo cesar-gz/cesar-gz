@@ -11,9 +11,12 @@
         /></a>
     <a href="https://www.linkedin.com/in/cesar-gutierrez-c/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a>
-    <a href="" rel="nofollow"> <img src="https://img.shields.io/badge/cesarG(2282)-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a>
-    <a href="https://titanradio.org/testingpage/" rel="nofollow"> <img src="https://img.shields.io/badge/Music-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
+    <a href="https://titanradio.org/testingpage/" rel="nofollow"> <img src="https://img.shields.io/badge/Radio-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
+        <a href="mailto:cesar7720g@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+    </a>
     <a href="" rel="nofollow"> <img src="https://komarev.com/ghpvc/?username=cesar-gz&style=for-the-badge"> </a>
+    <a><img src="https://vbr.wocr.tk/badge?page_id=cesar-gz&amp;style=for-the-badge&amp;logo=Github&amp;color=blueviolet" style="max-width: 100%;"></a>
 
 ---
 
@@ -45,7 +48,9 @@
 
 ### 📈 Stats
 
-![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=prussian&show_icons=true)
+![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=algolia&show_icons=true&include_all_commits=true&hide=stars)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-gz&theme=algolia&layout=compact)
 
 #
 
