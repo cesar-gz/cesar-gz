@@ -1,16 +1,20 @@
-# <h1 align="center" dir="auto">👾🏐 Cesar Gutierrez </h1>
+# <h1 align="center" dir="auto">Hello 👾! I'm Cesar Gutierrez </h1>
 
-**`Web Design Intern @ Titan Radio / Amazon Research Fellow / CSUF Student`**
+<h3 align="center" dir="auto">  Web Design Intern @ Titan Radio  </h3>
 
-Hello, my name is Cesar Gutierrez, and welcome to my Github profile! I am a hard working student with a keen interest in creating efficient and effective solutions to real-world problems. I am striving to become a software engineer intern and eventually a software engineer.
+<h5 align="center" dir="auto"> Determined developer interested in fullstack development. Striving to become a Software Engineer </h5>
 
 <p aligh="left">
     <a href="https://cesar-gz.github.io/project-portfolio/">
         <img alt="project portfolio" title="My Project Portfolio" 
-        src="https://custom-icon-badges.demolab.com/badge/cesar--gz-Project%20Portfolio-blue"
+        src="https://custom-icon-badges.demolab.com/badge/cesar--gz-Project%20Portfolio-lightblue?style=for-the-badge"
         /></a>
-    <a href="https://www.linkedin.com/in/cesar-gutierrez-c/" rel="nofollow"> <img src="https://camo.githubusercontent.com/46a64b46e5db134c875d304cfaaa8b1bf26d0ea55c187aaec6e6ab079103c451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d706c6173746963266c6f676f3d6c696e6b6564496e" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&amp;logo=linkedIn" style="max-width: 100%;"> </a>
-</p>
+    <a href="https://www.linkedin.com/in/cesar-gutierrez-c/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    </a>
+    <a href="" rel="nofollow"> <img src="https://img.shields.io/badge/cesarG(2282)-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a>
+    <a href="https://titanradio.org/testingpage/" rel="nofollow"> <img src="https://img.shields.io/badge/Music-0000CC?style=for-the-badge&logo=audacity&logoColor=white"></a>
+    <a href="" rel="nofollow"> <img src="https://img.shields.io/badge/cesar__gz-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href="" rel="nofollow"> <img src="https://komarev.com/ghpvc/?username=cesar-gz&style=for-the-badge"> </a>
 
 ---
 
