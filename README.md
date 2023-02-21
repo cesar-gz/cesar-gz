@@ -17,6 +17,8 @@
     </a>
     <a><img src="https://vbr.wocr.tk/badge?page_id=cesar-gz&amp;style=for-the-badge&amp;logo=Github&amp;color=blueviolet" style="max-width: 100%;"></a>
 
+![This is a alt text.](https://lh3.googleusercontent.com/VYFNTy2mR-M8_QoL5Gye6QZCahMpPcx_Y1khlT2mblrDNHecl9wqLNT5UnCHLTgmHzpxXU4R8bfSRX59jzAlHCSj6fzr371CmOpRedWvIhGR "Why hello there.")
+    
 ---
 
 ### <h3 align="center"> 🧰 Languages and Tools </h3>
@@ -52,4 +54,4 @@
 
 <details>
     <summary><h3 align="center">👾 About Me 👾</h3></summary>
-        I am a highly motivated senior at California State University Fullerton with a passion for Computer Science. With three years of studying, I have developed a deep understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. Throughout my studies, I have been fortunate to work with some amazing people, and have been a part of some fun projects. I am a team player at heart and thrive in collaborative environments where everyone's contributions are valued. I am dedicated to providing high-quality work and going above and beyond to ensure the satisfaction of my clients and colleagues. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. My hope is to be able to graduate become a software engineer where I can provide value to a company. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges, and am excited to connect with like-minded professionals in the industry. Feel free to reach out to me for any inquiries.
+        With three years of studying, I have developed a great understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges.
