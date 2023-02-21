@@ -2,7 +2,7 @@
 
 <h3 align="center" dir="auto">  Web Design Intern @ Titan Radio  </h3>
 
-<h5 align="center" dir="auto"> Determined developer interested in fullstack development. Striving to become a Software Engineer </h5>
+<h4 align="center" dir="auto"> Determined developer interested in fullstack development. Striving to become a Software Engineer </h4>
 
 <p aligh="left">
     <a href="https://cesar-gz.github.io/project-portfolio/">
@@ -42,7 +42,7 @@
 
 #
 
-### 📈 Stats
+### <h3 align="center"> 📈 Stats </h3>
 
 ![Cesar-gz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=algolia&show_icons=true&include_all_commits=true&hide=stars)
 
@@ -51,5 +51,5 @@
 #
 
 <details>
-    <summary><h3>👾 About Me</h3></summary>
+    <summary><h3 align="center">👾 About Me 👾</h3></summary>
         I am a highly motivated senior at California State University Fullerton with a passion for Computer Science. With three years of studying, I have developed a deep understanding of Web Applications, Databases, Software, and Programming. I have used technologies like React, MongoDB, MySQL, and PHP. I am always seeking to expand my knowledge and stay up-to-date on the latest trends and developments. Throughout my studies, I have been fortunate to work with some amazing people, and have been a part of some fun projects. I am a team player at heart and thrive in collaborative environments where everyone's contributions are valued. I am dedicated to providing high-quality work and going above and beyond to ensure the satisfaction of my clients and colleagues. I have taken Assembly, Compilers and Languages, Operating Systems, Intro to Software Engineering, Software Testing, Python, Databases & File Structures, Computer Security, Data Science, Calculus 2, and Linear Algebra. Now I'm taking Algorithm Engineering, Computer Communications, and Software Design. My hope is to be able to graduate become a software engineer where I can provide value to a company. In my free time, I enjoy learning new frameworks or implementing new project ideas, and I believe that a healthy work-life balance is crucial for success and personal fulfillment. I am always open to new opportunities and challenges, and am excited to connect with like-minded professionals in the industry. Feel free to reach out to me for any inquiries.
