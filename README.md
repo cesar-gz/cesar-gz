@@ -15,7 +15,6 @@
         <a href="mailto:cesar7720g@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
     </a>
-    <a href="" rel="nofollow"> <img src="https://komarev.com/ghpvc/?username=cesar-gz&style=for-the-badge"> </a>
     <a><img src="https://vbr.wocr.tk/badge?page_id=cesar-gz&amp;style=for-the-badge&amp;logo=Github&amp;color=blueviolet" style="max-width: 100%;"></a>
 
 ---
@@ -23,7 +22,7 @@
 ### <h3 align="center"> 🧰 Languages and Tools </h3>
 
 <img align="center" alt="Python" width="35px" style="padding-right:10px;" 
-    src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  align="center" width="40px" height="40px" style="max-width: 100%; padding-right:10px"/>
 <img align="center" alt="Javascript" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
