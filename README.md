@@ -20,28 +20,25 @@
 
 ---
 
-### 🧰 Languages and Tools
+### <h3 align="center"> 🧰 Languages and Tools </h3>
 
-<img align="left" alt="Python" width="35px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="C++" width="35px" style="padding-right:10px;" 
-    src="https://camo.githubusercontent.com/521e78dc0d1e0a5f3925b9f52cc8c84096530ac5f51e7b2963e5a29bdc3bd486/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6c696e652e737667"/>
-<img align="left" alt="Javascript" width="35px" style="padding-right:10px;" 
+<img align="center" alt="Python" width="35px" style="padding-right:10px;" 
+    src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  align="center" width="40px" height="40px" style="max-width: 100%; padding-right:10px"/>
+<img align="center" alt="Javascript" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="PHP" width="35px" style="padding-right:10px;" 
+<img align="center" alt="PHP" width="45px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-<img align="left" alt="MySQL" width="35px" style="padding-right:10px;" 
+<img align="center" alt="MySQL" width="50px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
-<img align="left" alt="React" width="35px" style="padding-right:10px;" 
+<img align="center" alt="React" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" 
+<img align="center" alt="Node.js" width="55px" style="padding-right:10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="center" alt="Git" width="40px" style="padding-right:10px;" 
+    src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"/>
+<img align="center" alt="GitHub" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="pytest" width="35px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
-<img align="left" alt="robot" width="35px" style="padding-right:10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png?20180323153902"/>
 <br />
 
 #
