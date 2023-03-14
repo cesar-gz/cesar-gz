@@ -16,9 +16,8 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
     </a>
     <a href="https://s3.amazonaws.com/symp.csm.usprod/fullerton/files/220/220ae54fec94a0eb99891a125253c028.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230223T201608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=e55c0f0b27c5ee2ea7e98b2b19cb12990b8f7c19db10da10c97d389d1cce34ad" rel="nofollow"><img src="https://img.shields.io/badge/Resume-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
-    <a><img src="https://vbr.wocr.tk/badge?page_id=cesar-gz&amp;style=for-the-badge&amp;logo=Github&amp;color=blueviolet" style="max-width: 100%;"></a>
 
-![This is a alt text.](https://lh3.googleusercontent.com/agl8Z-l2qblO18uVebpgC8oZc_NFB2HIL_UjcGIRbhTzlCHFeXY6qAC92kUN4fv1WTIF25o8L2vwgyfwpDuSmzBF5SXdhD5XeUyJQhF75g "Why hello there.")
+![This is an image](https://imgur.com/a/SJRoBTF)
     
 ---
 
