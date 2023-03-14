@@ -17,8 +17,8 @@
     </a>
     <a href="https://s3.amazonaws.com/symp.csm.usprod/fullerton/files/220/220ae54fec94a0eb99891a125253c028.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20230223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230223T201608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=e55c0f0b27c5ee2ea7e98b2b19cb12990b8f7c19db10da10c97d389d1cce34ad" rel="nofollow"><img src="https://img.shields.io/badge/Resume-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
 
-![This is an image](https://imgur.com/a/SJRoBTF)
-    
+![github-header-image (1)](https://user-images.githubusercontent.com/89470139/224892926-27cc6ff9-1644-4c1f-80e2-dcd34edbcc00.png)
+
 ---
 
 ### <h3 align="center"> 🧰 Languages and Tools </h3>
