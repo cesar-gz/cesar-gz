@@ -14,7 +14,7 @@
         <a href="mailto:cesar7720g@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
     </a>
-    <a href="https://i.ibb.co/nmVvsSM/resume.png"><img src="https://img.shields.io/badge/Resume-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
+    <a href="https://i.ibb.co/RHHv4yp/resume-picture.png"><img src="https://img.shields.io/badge/Resume-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
 
 ![github-header-image (1)](https://i.ibb.co/k8VNd5c/github.png)
 </p>
