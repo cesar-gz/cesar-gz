@@ -2,7 +2,7 @@
 
 <h3 align="center" dir="auto">  I'm a Senior @ CSUF 👨‍🎓 </h3>
 
-<h4 align="center" dir="auto"> I want to become a Software Engineer in Frontend or Backend Web Development</h4>
+<h4 align="center" dir="auto"> I want to become a Software Engineer in Frontend Web Development</h4>
 
 <p align="center">
     <a href="https://cesargz.com">
