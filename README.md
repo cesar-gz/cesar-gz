@@ -1,8 +1,8 @@
 # <h1 align="center" dir="auto">Hello 🙋‍♂️! </h1>
 
-<h3 align="center" dir="auto">  I'm a Senior @ CSUF 👨‍🎓 </h3>
+<h3 align="center" dir="auto">  CSUF 2023 December Grad👨‍🎓 </h3>
 
-<h4 align="center" dir="auto"> I want to become a Software Engineer in Frontend Web Development</h4>
+<h4 align="center" dir="auto"> I want to become a Software Engineer</h4>
 
 <p align="center">
     <a href="https://cesargz.com">
