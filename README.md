@@ -1,8 +1,6 @@
-# <h1 align="center" dir="auto">Hello 🙋‍♂️! </h1>
+# <h1 align="center" dir="auto">Hello World 🙋‍♂️! </h1>
 
-<h3 align="center" dir="auto">  CSUF 2023 December Grad👨‍🎓 </h3>
-
-<h4 align="center" dir="auto"> I want to become a Software Engineer</h4>
+![github-header-image (1)](https://i.ibb.co/k8VNd5c/github.png)
 
 <p align="center">
     <a href="https://cesargz.com">
@@ -11,11 +9,10 @@
         /></a>
     <a href="https://www.linkedin.com/in/cesargz/" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a>
-        <a href="mailto:cesar7720g@gmail.com">
+        <a href="mailto:dev.cesargz@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
     </a>
 
-![github-header-image (1)](https://i.ibb.co/k8VNd5c/github.png)
 </p>
 
 ### <h3 align="center"> 🧰 Languages and Tools </h3>
@@ -25,16 +22,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  align="center" width="40px" height="40px" style="max-width: 100%; padding-right:10px"/>
 <img align="center" alt="Javascript" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="center" alt="PHP" width="45px" style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="center" alt="MySQL" width="50px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
 <img align="center" alt="React" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center" alt="Node.js" width="55px" style="padding-right:10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="center" alt="Git" width="40px" style="padding-right:10px;" 
-    src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"/>
 <img align="center" alt="GitHub" width="35px" style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
