@@ -14,5 +14,3 @@
 
 </p>
 
-<a><img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-gz&theme=algolia&layout=compact"></a>
-<a><img width="485" height="225" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cesar-gz&theme=algolia&show_icons=true&include_all_commits=true&hide=stars" border-radius="40px" max-width="100%"> </a>
